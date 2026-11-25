@@ -38,3 +38,5 @@ This Chrome extension automatically detects any YouTube Shorts URL, i.e., youtub
 
 ## 📜 License
 This project is open-source and free to use.
+
+
